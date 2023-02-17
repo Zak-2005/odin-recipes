@@ -1,0 +1,31 @@
+li button a{
+    font-size: 30px;
+    font-weight: bold;
+    color: black;
+}
+
+h1{
+    font-size: 60px;
+
+}
+
+img {
+    height: auto;
+    width:500px;
+}
+
+#first {
+    background-color: #9bde95
+}
+
+#second {
+    background-color: #c69ef3;
+}
+
+#third {
+    background-color: #83b8e6;
+}
+
+body {
+    font-size: 20px;
+}
